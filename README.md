@@ -2,7 +2,7 @@
 
 Este repositório contém o projeto avaliativo desenvolvido para a disciplina de **Mineração de Dados** do curso de Tecnólogo de Inteligência Artificial da **FATEC RC**.
 
-## 📋 Descrição do Projeto
+## Descrição do Projeto
 O trabalho consiste na aplicação de técnicas de extração de conhecimento a partir de bases de dados reais do **Senado Federal Brasileiro** referente ao ano de 2025. A análise busca identificar padrões salariais, correlações entre departamentos e o volume de horas extras pagas aos servidores.
 
 ## Objetivos
