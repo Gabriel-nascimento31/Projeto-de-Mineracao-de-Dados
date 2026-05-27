@@ -42,6 +42,9 @@ Seguindo os requisitos pedagógicos, o projeto utiliza:
    │   ├── concatenado_2025.csv
    │   └── base_senado_mineracao.csv
    │
+   │── Projeto/
+   │   ├── Relatorio_Academico_Mineracao_Dados.pdf
+   │
    ├── concatenar.py
    ├── limpeza_formatacao.py
    ├── mineracao.ipynb
