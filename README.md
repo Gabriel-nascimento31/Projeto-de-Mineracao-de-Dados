@@ -28,7 +28,7 @@ Seguindo os requisitos pedagógicos, o projeto utiliza:
 ## Equipe
 *   **Brendol Alves**
 *   **Gabriel Nascimento**
-*   **Luiz Henrique**
+*   **Luiz Henrique Crepaldi**
 
 # Estrutura do Projeto
 
@@ -52,4 +52,4 @@ Seguindo os requisitos pedagógicos, o projeto utiliza:
    └── README.md:
 ```
 
-*Este projeto foi desenvolvido estritamente para fins acadêmicos utilizando dados públicos sob a Lei de Acesso à Informação.*
+*Este projeto foi desenvolvido estritamente para fins acadêmicos utilizando dados públicos sob a Lei de Acesso à Informação (LAI - Lei nº 12.527/2011).*
